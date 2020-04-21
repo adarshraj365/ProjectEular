@@ -38,7 +38,7 @@ int main(){
 		}
 		// cout<<num<<" ";
 		if(isPrime(num)){
-			cout<<num<<" ";
+			// cout<<num<<" ";
 			ans = max(ans,num);
 		}
 
